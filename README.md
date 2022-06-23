@@ -1,1 +1,1 @@
-# javascript1
+# javascript program to display on screen
